@@ -23,7 +23,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drfengyu&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,cs,java,html,css,js,cloudflare,discord,md,Nextjs,Nodejs,react,vite,vue&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=py,cs,java,html,css,js,md,nextjs,nodejs,react,vite,vue&theme=light" />
 </p>
  
 <!-- https://github.com/badges/shields -->
